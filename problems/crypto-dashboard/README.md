@@ -11,7 +11,7 @@ A simple Crypto Dashboard that fetches real-time cryptocurrency market data from
 - HTML
 - CSS
 - JavaScript
-- [CoinGecko API](https://www.coingecko.com/en/api)
+- [CoinGecko API](https://api.coingecko.com/api/v3/coins/markets?vs_currency=inr&order=market_cap_desc&per_page=100&page=1&sparkline=false)
 
 ## Installation & Usage
 1. Clone the repository:
